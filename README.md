@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nehal Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionated Data Sciencetist from India</h3>
 
 - 📫 How to reach me **nehalshaikh9769@gmail.com**
 
